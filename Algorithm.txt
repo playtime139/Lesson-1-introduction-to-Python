@@ -1,0 +1,6 @@
+Start
+Take two numbers and store it in variables a and b
+take another variable sum and add to values a and b
+sum = a + b
+print sum
+stop
